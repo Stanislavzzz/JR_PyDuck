@@ -1,0 +1,16 @@
+2026-11-09 19:26:53,601 [INFO] (root) -  step07-logging.py - <module> Это информационное сообщение! - 13
+2026-11-09 19:26:53,601 [WARNING] (root) -  step07-logging.py - demo Это предупреждение! - 17
+2026-11-09 19:26:53,601 [ERROR] (root) -  step07-logging.py - <module> Это сообщение об ошибке! - 22
+2026-11-09 19:26:53,601 [CRITICAL] (root) -  step07-logging.py - <module> Это критическое сообщение! - 23
+2026-11-09 19:27:12,392 [INFO] (root) -  step07-logging.py - <module> Это информационное сообщение! - 13
+2026-11-09 19:27:12,392 [WARNING] (root) -  step07-logging.py - demo Это предупреждение! - 17
+2026-11-09 19:27:12,392 [ERROR] (root) -  step07-logging.py - <module> Это сообщение об ошибке! - 22
+2026-11-09 19:27:12,392 [CRITICAL] (root) -  step07-logging.py - <module> Это критическое сообщение! - 23
+2026-11-09 19:27:14,091 [INFO] (root) -  step07-logging.py - <module> Это информационное сообщение! - 13
+2026-11-09 19:27:14,091 [WARNING] (root) -  step07-logging.py - demo Это предупреждение! - 17
+2026-11-09 19:27:14,091 [ERROR] (root) -  step07-logging.py - <module> Это сообщение об ошибке! - 22
+2026-11-09 19:27:14,091 [CRITICAL] (root) -  step07-logging.py - <module> Это критическое сообщение! - 23
+2026-11-09 19:27:14,667 [INFO] (root) -  step07-logging.py - <module> Это информационное сообщение! - 13
+2026-11-09 19:27:14,667 [WARNING] (root) -  step07-logging.py - demo Это предупреждение! - 17
+2026-11-09 19:27:14,667 [ERROR] (root) -  step07-logging.py - <module> Это сообщение об ошибке! - 22
+2026-11-09 19:27:14,667 [CRITICAL] (root) -  step07-logging.py - <module> Это критическое сообщение! - 23
