@@ -1,0 +1,15 @@
+{
+    "country": "USA",
+    "username": "Bob",
+    "level": 17,
+    "isEurop": false,
+    "items": [
+        "sword",
+        "shield",
+        "potion"
+    ],
+    "subjects": {
+        "user": "Bob",
+        "age": 25
+    }
+}

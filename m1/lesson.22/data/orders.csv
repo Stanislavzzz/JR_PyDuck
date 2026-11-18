@@ -1,0 +1,4 @@
+order_id;client;category;quantity;unit_price;status
+101;Анна;Книги;2;450;paid
+102;Борис;Канцтовары;3;150;paid
+103;Олег;Книги;1;790;pending

@@ -1,0 +1,7 @@
+shop:
+  name: JavaRush
+  address: Moscow
+  category:
+    - Книги1
+    - Курсы1
+  menu: null
